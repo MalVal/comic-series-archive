@@ -39,5 +39,3 @@
 19\. Rédemption
 
 20\. Gettysburg
-
-21\. Le convoi des bannis
